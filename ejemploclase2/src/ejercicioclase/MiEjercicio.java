@@ -35,9 +35,5 @@ totprom = promedio/2;
 System.out.printf("Su nombre y su apellido son: %s\n Edad:"
         + " %s\n Ciudad: %s\n Pais: %s\n Notas %s\n Promedio: %s\n ",nombre+" "+
                 apellido,edad,ciudad,pais,nota1+","+nota2,totprom);
-  
-  
-
-  
 // Fin  
 }}
