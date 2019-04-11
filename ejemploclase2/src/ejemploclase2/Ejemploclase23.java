@@ -1,7 +1,8 @@
 package ejemploclase2;
 import java.util.Scanner;
 public class Ejemploclase23 {
-    public static void main(String[] args) {// Inicio
+    public static void main(String[] args) {
+// Inicio
         String nombre;
         String apellido;
         int edad;
